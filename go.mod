@@ -1,4 +1,4 @@
-module common
+module github.com/Tardigrade97/common
 
 go 1.16
 
